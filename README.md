@@ -12,22 +12,28 @@ Cybersecurity practitioner ranked in the Top 1% on TryHackMe.
 Hands-on experience in penetration testing, vulnerability assessment, 
 and technical content creation.
 ```
-- **🛡 Certified in Security+, Google Cybersecurity Specialization, Qualys VMDR
-- **🎯 Currently pursuing eJPTv2
-- **🌐 Portfolio: sdevop.com
-- **📜 TryHackMe: D3SYNCx
+- 🛡 Certified in Security+, Google Cybersecurity Specialization, Qualys VMDR
+- 🎯 Currently pursuing eJPTv2
+- 🌐 Portfolio: sdevop.com
+- 📜 TryHackMe: D3SYNCx
 
-##🛠 Skills & Tools
-- **Security Tools
-- **Nmap Burp Suite WPScan OWASP ZAP Metasploit Hydra John the Ripper sqlmap
-- **Recon — theHarvester, DNSDumpster, Sublister, WhatWeb
-- **Utilities — Netcat, Searchsploit, VirusTotal, Cisco Talos
+## 🛠 Skills & Tools
+- Security Tools
+- Nmap Burp Suite WPScan OWASP ZAP Metasploit Hydra John the Ripper sqlmap
+- Recon — theHarvester, DNSDumpster, Sublister, WhatWeb
+- Utilities — Netcat, Searchsploit, VirusTotal, Cisco Talos
 
-##Programming & Scripting
-- **Python Bash HTML/CSS C C++ SQL
+---
+
+## Programming & Scripting
+- Python Bash HTML/CSS C C++ SQL
+  
+---
 
 ## Operating Systems
-- **Linux Windows
+- Linux Windows
+
+---
 
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=D3SYNCx&show_icons=true&theme=radical" alt="GitHub Stats" height="160"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3SYNCx&layout=compact&theme=radical" alt="Top Languages" height="160"> </p>
