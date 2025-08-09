@@ -1,6 +1,6 @@
 <!-- Profile Cover -->
 <p align="center">
-  <img src="YOUR_BANNER_RAW_URL" alt="D3SYNCx Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/D3SYNCx/D3SYNCx/refs/heads/main/Name_image.jpg" alt="D3SYNCx Banner" width="100%">
 </p>
 
 <h1 align="center">
@@ -15,6 +15,7 @@
 Cybersecurity practitioner ranked in the Top 1% on TryHackMe.
 Hands-on experience in penetration testing, vulnerability assessment, 
 and technical content creation.
+```
 🛡 Certified in Security+, Google Cybersecurity Specialization, Qualys VMDR
 
 🎯 Currently pursuing eJPTv2
@@ -25,18 +26,19 @@ and technical content creation.
 
 🛠 Skills & Tools
 Security Tools
-Nmap Burp Suite WPScan OWASP ZAP Metasploit Hydra John the Ripper sqlmap
-Recon — theHarvester, DNSDumpster, Sublister, WhatWeb
-Utilities — Netcat, Searchsploit, VirusTotal, Cisco Talos
+Nmap • Burp Suite • WPScan • OWASP ZAP • Metasploit • Hydra • John the Ripper • sqlmap
+Recon — theHarvester • DNSDumpster • Sublister • WhatWeb
+Utilities — Netcat • Searchsploit • VirusTotal • Cisco Talos
 
 Programming & Scripting
-Python Bash HTML/CSS C C++
+Python • Bash • HTML/CSS • C • C++
 
 Operating Systems
-Kali Linux Windows
+Kali Linux • Windows
 
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=D3SYNCx&show_icons=true&theme=radical" alt="GitHub Stats" height="160"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3SYNCx&layout=compact&theme=radical" alt="Top Languages" height="160"> </p>
+
 🏆 Experience
 Cybersecurity Content Writer — Published CTF & attack simulation walkthroughs
 
@@ -53,13 +55,13 @@ GraphJet: CPU Cooling Prototype — Graphene-based piezoelectric microjet coolin
 
 Shadowsocks VPN Architecture — AES-256-GCM VPN tunnel with obfuscation for censorship bypass
 
-📰 Latest Blogs (GitHub)
+💻 Latest Blogs (GitHub)
 Sample Blog Post 1
 
 Sample Blog Post 2
 
-📫 Connect with Me
+📬 Connect with Me
 
 
 
-<p align="center">⚡ Learn. Build. Break. Fix. Repeat. ⚡</p> ```
+<p align="center">⚡ Learn. Build. Break. Fix. Repeat. ⚡</p> ``
