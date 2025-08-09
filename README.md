@@ -1,54 +1,46 @@
+<!-- Profile Cover -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FF00&width=750&lines=Hi%2C+I'm+D3SYNCx;Ethical+Hacker+%7C+CTF+Player+%7C+Cybersecurity+Researcher;Ranked+Top+1%25+on+TryHackMe;Welcome+to+my+GitHub" alt="Typing SVG">
+</h1>
+
+---
+
 ## 🕶 About Me
 ```bash
 > whoami
 Cybersecurity practitioner ranked in the Top 1% on TryHackMe.
 Hands-on experience in penetration testing, vulnerability assessment, 
 and technical content creation.
-🛡 Certified in Security+, Google Cybersecurity Specialization, Qualys VMDR
 ```
+🛡 Certified in Security+, Google Cybersecurity Specialization, Qualys VMDR
 🎯 Currently pursuing eJPTv2
 🌐 Portfolio: sdevop.com
 📜 TryHackMe: D3SYNCx
 
 🛠 Skills & Tools
-Security Tools:
-Nmap · Burp Suite · WPScan · OWASP ZAP · Metasploit · Hydra · John the Ripper · sqlmap
+Security Tools
+Nmap Burp Suite WPScan OWASP ZAP Metasploit Hydra John the Ripper sqlmap
+Recon — theHarvester, DNSDumpster, Sublister, WhatWeb
+Utilities — Netcat, Searchsploit, VirusTotal, Cisco Talos
 
-Reconnaissance Tools:
-theHarvester · DNSDumpster · Sublist3r · WhatWeb
+Programming & Scripting
+Python Bash HTML/CSS C C++ SQL
 
-Utilities:
-Netcat · Searchsploit · VirusTotal · Cisco Talos
-
-Programming & Scripting:
-Python · Bash · HTML/CSS · C · C++
-
-Operating Systems:
- Linux · Windows
+Operating Systems
+Linux Windows
 
 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=D3SYNCx&show_icons=true&theme=radical" height="160"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3SYNCx&layout=compact&theme=radical" height="160"> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=D3SYNCx&show_icons=true&theme=radical" alt="GitHub Stats" height="160"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3SYNCx&layout=compact&theme=radical" alt="Top Languages" height="160"> </p>
 
-🏆 Professional Experience
-Cybersecurity Content Writer — Published CTF & attack simulation walkthroughs with step-by-step exploit demonstrations and remediation recommendations.
-
-Freelance Web App Pentester — Conducted full Vulnerability Assessment and Penetration Testing (VAPT) on a live WordPress platform, uncovering critical security flaws.
-
-Community Moderator — Managed a cybersecurity Discord server, curating security tools, labs, and hosting AMA sessions with industry professionals.
-
-Penetration Testing Intern — Delivered high-quality vulnerability assessments at Academor, identifying XSS, SQLi, and file inclusion vulnerabilities.
+🏆 Experience
+Cybersecurity Content Writer — Published CTF & attack simulation walkthroughs on Medium
+Freelance Web App Pentester — Conducted full VAPT on a live WordPress platform
+Community Moderator — Cybersecurity Discord server with curated tools, labs, and AMA sessions
+Penetration Testing Intern — Delivered high-quality vulnerability assessments at Academor
 
 🚀 Projects
-RFID Authentication Logger — Offline logging of 1,000+ RFID entries with timestamps for secure access auditing.
-GraphJet: CPU Cooling Prototype — Graphene-based piezoelectric microjet cooling system designed for high-efficiency CPU thermal management.
-Shadowsocks VPN Architecture — AES-256-GCM VPN tunnel implementation with obfuscation for bypassing censorship and deep packet inspection.
+RFID Authentication Logger — Offline logging of 1,000+ RFID entries with timestamps
+GraphJet: CPU Cooling Prototype — Graphene-based piezoelectric microjet cooling
+Shadowsocks VPN Architecture — AES-256-GCM VPN tunnel with obfuscation for censorship bypass
 
-📝 Latest Blogs (GitHub)
-🔗 Sample Blog Post 1
-🔗 Sample Blog Post 2
-
-📫 Connect with Me
-
-
-
-<p align="center">⚡ Learn. Build. Break. Fix. Repeat. ⚡</p>
+<p align="center">⚡ Learn. Build. Break. Fix. Repeat. ⚡</p> 
