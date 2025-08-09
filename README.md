@@ -26,30 +26,32 @@ and technical content creation.
 ---
 
 ## Programming & Scripting
-- Python Bash HTML/CSS C C++ SQL
+- Python, Bash, HTML/CSS, C, C++, SQL.
   
 ---
 
 ## Operating Systems
-- Linux Windows
+- Linux, Windows
 
 ---
 
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=D3SYNCx&show_icons=true&theme=radical" alt="GitHub Stats" height="160"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3SYNCx&layout=compact&theme=radical" alt="Top Languages" height="160"> </p>
 
+---
+
 ## 🏆 Experience
-- **Cybersecurity Content Writer** — Published CTF & attack simulation walkthroughs on Medium  
-- **Freelance Web App Pentester** — Conducted full VAPT on a live WordPress platform  
-- **Community Moderator** — Cybersecurity Discord server with curated tools, labs, and AMA sessions  
-- **Penetration Testing Intern** — Delivered high-quality vulnerability assessments at Academor  
+- Cybersecurity Content Writer** — Published CTF & attack simulation walkthroughs on Medium  
+- Freelance Web App Pentester** — Conducted full VAPT on a live WordPress platform  
+- Community Moderator** — Cybersecurity Discord server with curated tools, labs, and AMA sessions  
+- Penetration Testing Intern** — Delivered high-quality vulnerability assessments at Academor  
 
 ---
 
 ## 🚀 Projects
-- **RFID Authentication Logger** — Offline logging of 1,000+ RFID entries with timestamps  
-- **GraphJet: CPU Cooling Prototype** — Graphene-based piezoelectric microjet cooling  
-- **Shadowsocks VPN Architecture** — AES-256-GCM VPN tunnel with obfuscation for censorship bypass  
+- RFID Authentication Logger** — Offline logging of 1,000+ RFID entries with timestamps  
+- GraphJet: CPU Cooling Prototype** — Graphene-based piezoelectric microjet cooling  
+- Shadowsocks VPN Architecture** — AES-256-GCM VPN tunnel with obfuscation for censorship bypass  
 
 
 <p align="center">⚡ Learn. Build. Break. Fix. Repeat. ⚡</p> 
