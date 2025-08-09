@@ -41,17 +41,17 @@ and technical content creation.
 ---
 
 ## 🏆 Experience
-- Cybersecurity Content Writer** — Published CTF & attack simulation walkthroughs on Medium  
-- Freelance Web App Pentester** — Conducted full VAPT on a live WordPress platform  
-- Community Moderator** — Cybersecurity Discord server with curated tools, labs, and AMA sessions  
-- Penetration Testing Intern** — Delivered high-quality vulnerability assessments at Academor  
+- Cybersecurity Content Writer — Published CTF & attack simulation walkthroughs on Medium  
+- Freelance Web App Pentester — Conducted full VAPT on a live WordPress platform  
+- Community Moderator — Cybersecurity Discord server with curated tools, labs, and AMA sessions  
+- Penetration Testing Intern — Delivered high-quality vulnerability assessments at Academor  
 
 ---
 
 ## 🚀 Projects
-- RFID Authentication Logger** — Offline logging of 1,000+ RFID entries with timestamps  
-- GraphJet: CPU Cooling Prototype** — Graphene-based piezoelectric microjet cooling  
-- Shadowsocks VPN Architecture** — AES-256-GCM VPN tunnel with obfuscation for censorship bypass  
+- RFID Authentication Logger — Offline logging of 1,000+ RFID entries with timestamps  
+- GraphJet: CPU Cooling Prototype — Graphene-based piezoelectric microjet cooling  
+- Shadowsocks VPN Architecture — AES-256-GCM VPN tunnel with obfuscation for censorship bypass  
 
 
 <p align="center">⚡ Learn. Build. Break. Fix. Repeat. ⚡</p> 
