@@ -35,11 +35,6 @@ and technical content creation.
 
 ---
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=D3SYNCx&show_icons=true&theme=radical" alt="GitHub Stats" height="160"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3SYNCx&layout=compact&theme=radical" alt="Top Languages" height="160"> </p>
-
----
-
 ## 🏆 Experience
 - Cybersecurity Content Writer — Published CTF & attack simulation walkthroughs on Medium  
 - Freelance Web App Pentester — Conducted full VAPT on a live WordPress platform  
